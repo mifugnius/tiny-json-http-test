@@ -76,3 +76,4 @@ tiny.get({url}, function _get(err, result) {
 ```
 
 Check out the tests for more examples! :heart_decoration:
+test
